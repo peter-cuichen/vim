@@ -1,7 +1,7 @@
-L's Vim Config
+CC's Vim Config
 ==============
 
-L's vim & neovim config files.
+Ref: L's vim & neovim config files.
 
 Inspired by `spf13 <http://spf13.com>`_ and `amix <http://amix.dk>`_.
 
