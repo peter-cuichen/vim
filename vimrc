@@ -261,6 +261,10 @@ map <left> :bp!<cr>
 map <C-right> :tabnext<cr>
 map <C-left> :tabprevious<cr>
 
+" quit
+map q :quit<CR>
+map Q :quitall<CR>
+
 " When pressing <leader>cd switch to the directory of the open buffer
 map <leader>cd :cd %:p:h<cr>
 
